@@ -18,7 +18,7 @@ This Jupyter Notebook provides a comprehensive introduction to Python programmin
 
 1. **Clone the Repository**:
     ```sh
-    [git clone https://github.com/your-username/your-repository.git](https://github.com/PravinTiwari023/Python-Base2Advan.git)
+    git clone https://github.com/your-username/your-repository.git
     ```
 2. **Navigate to the Repository**:
     ```sh
